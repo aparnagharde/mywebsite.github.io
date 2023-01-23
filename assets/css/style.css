@@ -18,11 +18,11 @@
 @media (min-width: 320px) and (max-width: 480px){
  .contact-left {
     margin-right: 0!important;
-    text-align: center;
+    text-align: center!important;
 }
  .ot-heading {
     margin-bottom: 15px;
-    text-align: center;
+    text-align: center!important;
 }
  img{width:100%;}
   iframe {
