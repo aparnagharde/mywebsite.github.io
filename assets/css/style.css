@@ -16,6 +16,10 @@
 }
 
 @media (min-width: 320px) and (max-width: 480px){
+ .ot-heading {
+    margin-bottom: 15px;
+    text-align: center;
+}
  img{width:100%;}
   iframe {
       border: 0;
