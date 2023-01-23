@@ -16,6 +16,10 @@
 }
 
 @media (min-width: 320px) and (max-width: 480px){
+ .contact-left {
+    margin-right: 0!important;
+    text-align: center;
+}
  .ot-heading {
     margin-bottom: 15px;
     text-align: center;
