@@ -9,6 +9,10 @@
       width: 100%;
       height: 918px;
   }
+#about p {
+    color: #000;
+    line-height: 43px;
+}
   }
 .Oh1Vtf {
   font-family: Roboto,Arial,sans-serif;
