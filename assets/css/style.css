@@ -7,13 +7,13 @@
   .breadcrumbs {
     padding: 15px 0;
     min-height: 40px;
-    margin-top: -10px;
+    margin-top: -10px!important;
     text-align: center;
 }
   .flex-middle {
-    display: inline-grid;
+    display: inline-grid!important;
     align-items: center;
-    justify-content: center;
+    justify-content: center!important;
 }
   iframe {
       border: 0;
