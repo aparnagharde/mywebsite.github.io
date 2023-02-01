@@ -725,7 +725,8 @@ h1 {
 # Elementor Widgets
 --------------------------------------------------------------*/
 .ot-heading {
-  margin-bottom: 15px;
+    margin-bottom: -27px;
+    text-align: center;
 }
 .ot-heading > span {
   font-size: 14px;
